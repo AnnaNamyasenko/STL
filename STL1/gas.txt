@@ -1,0 +1,8 @@
+Gas bills: 
+Shevchuk people: 8 payed sum: 400
+Smoliar people: 4 payed sum: 620
+Vasko people: 3 payed sum: 115
+Dalevska people: 2 payed sum: 53
+Datskiv people: 2 payed sum: 80
+Petrov people: 2 payed sum: 75
+Grytsiv people: 1 payed sum: 50

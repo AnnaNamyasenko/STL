@@ -1,0 +1,17 @@
+16
+1 Vasko 3 115
+1 Petrov 2 75
+2 Demchuk 5 3 180
+1 Grytsiv 1 50
+2 Seleman 8 5 260
+1 Datskiv 2 80
+2 Dmytriv 11 6 300
+2 Dubyk 3 1 70
+2 Grun 9 5 280 
+2 Zinko 5 4 240
+1 Shevchuk 8 400
+2 Vaskiv 3 3 360
+1 Dalevska 2 53 
+2 Hapatyn 5 2 65
+2 Hopiak 3 2 66
+1 Smoliar 4 620

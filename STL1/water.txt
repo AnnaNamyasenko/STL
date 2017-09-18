@@ -1,0 +1,10 @@
+Water bills: 
+Demchuk; last showed : 5 payed liters : 3 payed sum : 180
+Dmytriv; last showed : 11 payed liters : 6 payed sum : 300
+Dubyk; last showed : 3 payed liters : 1 payed sum : 70
+Grun; last showed : 9 payed liters : 5 payed sum : 280
+Hapatyn; last showed : 5 payed liters : 2 payed sum : 65
+Hopiak; last showed : 3 payed liters : 2 payed sum : 66
+Seleman; last showed : 8 payed liters : 5 payed sum : 260
+Vaskiv; last showed : 3 payed liters : 3 payed sum : 360
+Zinko; last showed : 5 payed liters : 4 payed sum : 240
